@@ -1,0 +1,65 @@
+Fitting (DSFL):   0%|                                  | 0/5760 [00:00<?, ?it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                          | 1/5760 [00:00<27:44,  3.46it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                          | 4/5760 [00:00<21:35,  4.44it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                          | 5/5760 [00:01<18:57,  5.06it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                          | 7/5760 [00:01<17:26,  5.50it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 10/5760 [00:01<15:01,  6.38it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 11/5760 [00:03<36:46,  2.61it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 12/5760 [00:03<34:31,  2.77it/s]Fitting (DSFL):   0%|                         | 13/5760 [00:03<38:56,  2.46it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 16/5760 [00:04<22:09,  4.32it/s]Fitting (DSFL):   0%|                         | 17/5760 [00:04<29:50,  3.21it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 18/5760 [00:04<25:31,  3.75it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 19/5760 [00:05<34:38,  2.76it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 22/5760 [00:05<23:52,  4.00it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 23/5760 [00:06<23:15,  4.11it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 25/5760 [00:06<17:59,  5.31it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 26/5760 [00:06<19:11,  4.98it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 27/5760 [00:06<17:03,  5.60it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   0%|                         | 28/5760 [00:06<15:25,  6.19it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   1%|▏                        | 29/5760 [00:07<22:31,  4.24it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   1%|▏                        | 31/5760 [00:07<15:38,  6.11it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   1%|▏                        | 33/5760 [00:07<11:45,  8.12it/s]/mnt/d/PSID_heat_of_adsorption/parallel_DSFL_fitting.py:37: OptimizeWarning: Covariance of the parameters could not be estimated
+  popt, _ = curve_fit(dsflang, P, q, p0=p0, bounds=(0, np.inf), maxfev=10000)
+Fitting (DSFL):   1%|▏                        | 35/5760 [00:07<14:22,  6.64it/s]
